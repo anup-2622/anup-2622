@@ -1,10 +1,13 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Anup kumar</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anup-2622&label=Profile%20views&color=0e75b6&style=flat" alt="anup-2622" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anup-2622" alt="anup-2622" /></a> </p>
+
+- 🔭 I’m currently working on [Album Creation](https://github.com/anup-2622/idea.git)
+
+- 🌱 I’m currently learning **ReactJS , NodeJS , Express , MongoDB**
 
 - 📫 How to reach me **anupk2622@gmail.com**
 
@@ -21,4 +24,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anup-2622&show_icons=true&locale=en&layout=compact" alt="anup-2622" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anup-2622&show_icons=true&locale=en" alt="anup-2622" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anup-2622&" alt="anup-2622" /></p>
 
