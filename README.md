@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anup-2622" alt="anup-2622" /></a> </p>
 
-- 🔭 I’m currently working on [Album Creation](https://github.com/anup-2622/idea.git)
-
-- 🌱 I’m currently learning **ReactJS , NodeJS , Express , MongoDB**
 
 - 📫 How to reach me **anupk2622@gmail.com**
 
